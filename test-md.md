@@ -11,4 +11,4 @@ Content of the svg file is below
 
 [![](test-svg.svg)](#)
 
-<a href="javascript:void(0);"> <img src="test-svg.svg" /> </a>
+<a href="#"> <img src="test-svg.svg" /> </a>
